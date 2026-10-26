@@ -1,0 +1,14 @@
+
+├── .github/
+│   └── workflows/
+│       ├── update_stats.yml    # Primary GitHub Actions automated workflow
+│       └── thm-tracker.yml     # Standalone cron & manual dispatch workflow
+├── main.py                     # Core TryHackMe scraper & GitHub updater CLI
+├── requirements.txt            # Python dependencies (requests, PyGithub, etc.)
+├── README.md                   # Full documentation with live stats placeholders
+├── practice-log.md             # Chronological activity and progress log
+├── .env.example                # Local environment variable template
+├── .gitignore                  # Git ignore rules for caches, venvs, and secrets
+├── LICENSE                     # MIT License
+└── tests/
+    └── test_tracker.py         # Unit tests covering parsing, formatting, and sync
