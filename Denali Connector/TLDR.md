@@ -1,6 +1,6 @@
 TL;DR: Denali Connect (The "For Dummies" Guide)
 
-> What does this project do in plain English?**  
+> What does this project do in plain English?  
 > Every night at midnight, this script visits TryHackMe, grabs your latest rank, streak, total points, and completed rooms, and pastes them neatly onto your GitHub profile. You don't have to touch anything ever again.
 
 ---
